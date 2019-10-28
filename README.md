@@ -1,0 +1,2 @@
+# LQGDrone
+This repository is based on Linear-Quadratic-Gaussian (LQG) based stabilization-control and estimation for a single-plane drone model along a desired Non-linear trajectory. The code presented here is based on fixed-time horizon LQG. It might serve as starting point for people interested in Linear-Quadratic Control and Estimation techniques (these techniques are "Energy of the system" based and very intuitive to learn. Thank you! :) 
